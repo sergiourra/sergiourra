@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sergiourra
+- 👀 I’m interested in data processing
+- 🌱 I’m currently learning ... Rust, Elixir & Elm
