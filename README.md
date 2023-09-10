@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sergio
-- 👀 I’m interested in data processing
-- 🌱 I’m currently learning Rust, Elixir & Elm
+- 👀 I’m interested in extracting value from data
+- 🌱 I’m currently learning Mojo, Elixir & Zig
